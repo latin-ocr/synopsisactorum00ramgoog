@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./synopsisactorum00ramgoog_0039.png"; bbox 0 0 3012 4912; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 468 1555 820 1692">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 468 1555 820 1692">
+     <span class='ocr_line' id='line_1_1' title="bbox 468 1555 820 1692; baseline -0.011 -46"><span class='ocrx_word' id='word_1_1' title='bbox 468 1555 820 1692; x_wconf 63' lang='lat' dir='ltr'>samonum.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 134 2045 1168 2350">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 134 2045 1168 2350">
+     <span class='ocr_line' id='line_1_2' title="bbox 134 2045 1168 2120; baseline 0.002 -14"><span class='ocrx_word' id='word_1_2' title='bbox 134 2045 429 2109; x_wconf 78' lang='lat' dir='ltr'>INSTRUCTIONES</span> <span class='ocrx_word' id='word_1_3' title='bbox 455 2047 711 2120; x_wconf 74' lang='lat' dir='ltr'>PASTORALES,</span> <span class='ocrx_word' id='word_1_4' title='bbox 736 2045 914 2109; x_wconf 72' lang='lat' dir='ltr'>MANDATA</span> <span class='ocrx_word' id='word_1_5' title='bbox 943 2048 989 2107; x_wconf 88' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_6' title='bbox 1017 2048 1168 2120; x_wconf 82' lang='lat' dir='ltr'>EDICTA,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 174 2165 1164 2243; baseline 0 -17"><span class='ocrx_word' id='word_1_7' title='bbox 174 2167 342 2240; x_wconf 72' lang='lat' dir='ltr'>ALIAQUE</span> <span class='ocrx_word' id='word_1_8' title='bbox 365 2167 595 2230; x_wconf 78' lang='lat' dir='ltr'>DOCUMENTA</span> <span class='ocrx_word' id='word_1_9' title='bbox 621 2167 757 2243; x_wconf 84' lang='lat' dir='ltr'>QUIBUS</span> <span class='ocrx_word' id='word_1_10' title='bbox 783 2165 954 2229; x_wconf 74' lang='lat' dir='ltr'>HISTORIA</span> <span class='ocrx_word' id='word_1_11' title='bbox 984 2168 1031 2228; x_wconf 88' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_12' title='bbox 1058 2166 1164 2228; x_wconf 84' lang='lat' dir='ltr'>DISCI-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 176 2285 1164 2350; baseline 0 -6"><span class='ocrx_word' id='word_1_13' title='bbox 176 2287 289 2347; x_wconf 81' lang='lat' dir='ltr'>PLINA</span> <span class='ocrx_word' id='word_1_14' title='bbox 303 2286 554 2349; x_wconf 81' lang='lat' dir='ltr'>EPISCOPATUS</span> <span class='ocrx_word' id='word_1_15' title='bbox 565 2287 856 2350; x_wconf 81' lang='lat' dir='ltr'>ANTVERPIENSIS</span> <span class='ocrx_word' id='word_1_16' title='bbox 869 2285 1164 2347; x_wconf 78' lang='lat' dir='ltr'>ILLUSTRANTUII.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 591 2527 701 2548">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 591 2527 701 2548">
+     <span class='ocr_line' id='line_1_5' title="bbox 591 2527 701 2548; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 591 2527 701 2548; x_wconf 57' lang='lat'>⁴⁴0&gt;—</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1510 4912">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1510 4912">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1510 4912; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1510 4912; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
